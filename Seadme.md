@@ -17,4 +17,4 @@ git prune -- dry-run -- verbose
 
 to can check for objects to remove.
 
-Use the -- expire and -- verbose options
+Use the -- expire and -- verbose options.
